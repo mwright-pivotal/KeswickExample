@@ -11,6 +11,7 @@ spec:
       dynamicDirectPathIODevices:
       - vendorID: 0x8086
         deviceID: 0xa0f0
+---
 apiVersion: vmoperator.vmware.com/v1alpha1
 kind: VirtualMachine
 metadata:
