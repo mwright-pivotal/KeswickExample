@@ -27,7 +27,7 @@ metadata:
   namespace: keswick-system
 spec:
   className: best-effort-keswick-small
-  imageName: keswick-wrkr.ova
+  imageName: ec-wrkr-ubuntu.ova
   powerState: poweredOff
   vmMetadata:
     transport: CloudInit
